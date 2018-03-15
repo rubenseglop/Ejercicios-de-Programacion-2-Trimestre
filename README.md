@@ -1,1 +1,2 @@
-# Ejercicios-de-Programacion-2-Trimestre
+# Ejercicios de Programación 2 Trimestre
+
